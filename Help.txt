@@ -1,0 +1,10 @@
+#DJANGO
+
+All Pass: Mom!l0veu
+$python manage.py createsuperuser #for creating super user
+$python3 manage.py runserver
+$django-admin startproject <<projectName>>
+$python manage.py startapp blog
+$python manage.py migrate
+$python manage.py makemigrations
+$python mange.py collectstatic
